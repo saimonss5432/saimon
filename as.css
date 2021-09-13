@@ -1,0 +1,44 @@
+* {
+  margin: 0px;
+  box-sizing: border-box;
+  padding: 0px;
+}
+body {
+  background-color: #4f4f4f;
+}
+#s1 {
+  color: darkblue;
+  background-color: rgb(207, 151, 128);
+  text-align: justify;
+  border: 3px solid rgb(16, 13, 219);
+  margin-left: 400px;
+  margin-right: 400px;
+  padding-left: 120px !important;
+  padding: 10px;
+  border-radius: 20px;
+}
+#s2 {
+  text-align: center;
+  color: rgb(24, 163, 156);
+  background-color: brown;
+  border: 5px dotted gold;
+  margin: 7px;
+  margin-left: 150px !important;
+  margin-right: 150px !important;
+}
+#s3 {
+  text-align: center;
+  color: rgb(24, 163, 156);
+  background-color: brown;
+  border: 5px dotted gold;
+  margin: 5px;
+  margin-left: 450px !important;
+  margin-right: 450px !important;
+}
+#copy {
+  color: #fff;
+  text-align: center;
+  border: 6px dotted coral;
+  margin-left: 500px;
+  margin-right: 500px;
+}
